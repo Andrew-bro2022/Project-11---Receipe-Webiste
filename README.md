@@ -16,9 +16,12 @@ https://receipe-webiste.vercel.app/
 **3. Filter by 'French':**
 ![image](https://github.com/user-attachments/assets/89597f5d-02a4-4266-a686-23434ad0e468)
 
-**4. Click 'View Details':**
+**4. Click 'View Details' for different cuisines:**
 
 <img src="https://github.com/user-attachments/assets/43228669-cd76-4a23-b3cb-da033e941c5c" alt="IMG_7021" width="30%">
+
+<img src="https://github.com/user-attachments/assets/7b1087d9-de06-467a-bcc2-87c677e963a3" alt="IMG_7022" width="40%">
+
 
 
 # Getting Started with Create React App
