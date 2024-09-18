@@ -54,7 +54,7 @@ const Home = () => {
 
   return (
     <Container>
-      <h1 className="text-center my-4">Receipe Website</h1>
+      <h1 className="text-center my-4">Recipe Website</h1>
 
       {/* Form for searching recipes */}
       <Form className="mb-4">
