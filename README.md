@@ -1,9 +1,23 @@
 # Note:
-If you encounter a 402 error or no data shows after search, please inform me (andyzheng.ca@gmail.com) so I can provide an updated Spoonacular API key. The Spoonacular API has a limited number of requests.
-
-##  Here is the public link after deployment： https://receipe-webiste.vercel.app/
+This is a mini React Web application for search receipe via Spoonacular API. If you encounter a 402 error or no data shows after search, please inform me (andyzheng.ca@gmail.com) so I can provide an updated Spoonacular API key. The Spoonacular API has a limited number of requests.
 
 ## Here is the demo video: 
+
+
+##  Here is the public link after deployment： 
+https://receipe-webiste.vercel.app/
+
+Home Page:
+![image](https://github.com/user-attachments/assets/dac9c062-65be-4b46-a607-8b5b146ebe9d)
+
+Search for 'eggs':
+![image](https://github.com/user-attachments/assets/a03f487e-80f3-4794-a48c-4964f546ce54)
+
+Filter by 'American':
+![image](https://github.com/user-attachments/assets/4bdec4fb-3505-41e1-9a6b-bba3669972ba)
+
+Click 'View Details':
+
 
 
 # Getting Started with Create React App
