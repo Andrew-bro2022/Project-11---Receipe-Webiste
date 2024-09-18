@@ -1,3 +1,7 @@
+#Note:
+If you encounter a 402 error, please inform me (andyzheng.ca@gmail.com) so I can provide an updated Spoonacular API key. The Spoonacular API has a limited number of requests.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
