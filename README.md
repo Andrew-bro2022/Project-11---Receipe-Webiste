@@ -1,5 +1,9 @@
-#Note:
-If you encounter a 402 error, please inform me (andyzheng.ca@gmail.com) so I can provide an updated Spoonacular API key. The Spoonacular API has a limited number of requests.
+# Note:
+If you encounter a 402 error or no data shows after search, please inform me (andyzheng.ca@gmail.com) so I can provide an updated Spoonacular API key. The Spoonacular API has a limited number of requests.
+
+##  Here is the public link after deployment： https://receipe-webiste.vercel.app/
+
+## Here is the demo video: 
 
 
 # Getting Started with Create React App
