@@ -22,21 +22,3 @@ function App() {
 
 export default App;
 
-
-// import React from 'react';
-// import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-// import HomePage from './pages/HomePage';
-// import RecipeDetailPage from './pages/RecipeDetailPage';
-
-// function App() {
-//   return (
-//     <Router>
-//       <Routes>
-//         <Route path="/" element={<HomePage />} />
-//         <Route path="/recipe/:id" element={<RecipeDetailPage />} />
-//       </Routes>
-//     </Router>
-//   );
-// }
-
-// export default App;
