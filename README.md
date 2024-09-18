@@ -7,16 +7,17 @@ This is a mini React Web application for search receipe via Spoonacular API. If 
 ##  Here is the public link after deployment： 
 https://receipe-webiste.vercel.app/
 
-Home Page:
+**1. Home Page:**
 ![image](https://github.com/user-attachments/assets/dac9c062-65be-4b46-a607-8b5b146ebe9d)
 
-Search for 'tomato':
+**2. Search for 'tomato':**
 ![image](https://github.com/user-attachments/assets/2b254eb5-55de-4611-9300-7a0045b8da65)
 
-Filter by 'French':
+**3. Filter by 'French':**
 ![image](https://github.com/user-attachments/assets/89597f5d-02a4-4266-a686-23434ad0e468)
 
-Click 'View Details':
+**4. Click 'View Details':**
+
 <img src="https://github.com/user-attachments/assets/43228669-cd76-4a23-b3cb-da033e941c5c" alt="IMG_7021" width="30%">
 
 
