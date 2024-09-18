@@ -10,14 +10,14 @@ https://receipe-webiste.vercel.app/
 Home Page:
 ![image](https://github.com/user-attachments/assets/dac9c062-65be-4b46-a607-8b5b146ebe9d)
 
-Search for 'eggs':
-![image](https://github.com/user-attachments/assets/a03f487e-80f3-4794-a48c-4964f546ce54)
+Search for 'tomato':
+![image](https://github.com/user-attachments/assets/2b254eb5-55de-4611-9300-7a0045b8da65)
 
-Filter by 'American':
-![image](https://github.com/user-attachments/assets/4bdec4fb-3505-41e1-9a6b-bba3669972ba)
+Filter by 'French':
+![image](https://github.com/user-attachments/assets/89597f5d-02a4-4266-a686-23434ad0e468)
 
 Click 'View Details':
-
+<img src="https://github.com/user-attachments/assets/43228669-cd76-4a23-b3cb-da033e941c5c" alt="IMG_7021" width="30%">
 
 
 # Getting Started with Create React App
