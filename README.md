@@ -16,7 +16,14 @@ https://receipe-webiste.vercel.app/
 **3. Filter by 'French':**
 ![image](https://github.com/user-attachments/assets/89597f5d-02a4-4266-a686-23434ad0e468)
 
-**4. Click 'View Details' for different cuisines:**
+**4. Next Page & Previous Page:**
+
+<img src="https://github.com/user-attachments/assets/b7e04c6c-f31d-457c-b9aa-aa031ce2932c" alt="IMG_7022" width="40%">
+
+<img src="https://github.com/user-attachments/assets/858d61fb-8588-4ea8-92ae-5acabec46d03" alt="IMG_7022" width="40%">
+
+
+**5. Click 'View Details' for different cuisines:**
 
 <img src="https://github.com/user-attachments/assets/43228669-cd76-4a23-b3cb-da033e941c5c" alt="IMG_7021" width="30%">
 
