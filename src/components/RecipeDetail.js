@@ -13,7 +13,7 @@ const RecipeDetail = () => {
       try {
         const res = await axios.get(`https://api.spoonacular.com/recipes/${id}/information`, {
           params: {
-            apiKey: apiKey,
+            apiKey: apiKey, //append to url: ?apiKey=your_api_key
           },
         });
         setRecipe(res.data);

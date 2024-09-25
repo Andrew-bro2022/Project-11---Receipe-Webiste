@@ -47,6 +47,7 @@ const Home = () => {
   // Handle the Enter key to trigger search
   const handleKeyPress = (e) => {
     if (e.key === 'Enter') {
+      e.preventDefault(); // Prevents the default form submission behavior
       setPage(1); // Reset to page 1 on new search
       handleSearch();
     }
