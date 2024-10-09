@@ -1,5 +1,5 @@
 # Note:
-This is a mini React Web application for search receipe via Spoonacular API. If you encounter a 402 error or no data shows after search, please inform me (andyzheng.ca@gmail.com) so I can provide an updated Spoonacular API key. The Spoonacular API has a limited number of requests.
+This is a mini Frontedn React Web application with Node.js for searching receipe via Spoonacular API. If you encounter a 402 error or no data shows after search, please inform me (andyzheng.ca@gmail.com) so I can provide an updated Spoonacular API key. The Spoonacular API has a limited number of requests.
 
 ## Here is the demo video: 
 https://youtu.be/ti3PgeI3OOY
